@@ -1,5 +1,7 @@
 # PersonalBlog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2d5d8a0-86bc-4786-a999-add9449c5c42/deploy-status)](https://app.netlify.com/sites/lucid-pike-e92aa7/deploys)
+
 A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
 
 [![GitHub license][mit-badge]][mit]
